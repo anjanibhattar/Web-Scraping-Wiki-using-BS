@@ -5,3 +5,9 @@ URL: https://en.wikipedia.org/wiki/List_of_aircraft_accidents_and_incidents_resu
 
 This Wikipedia page lists out all the fatal aircraft accidents and incidents globally that resulted in an estimated 50 fatalities at the least, in a single occurence. This includes both commerical and military passenger and cargo aircrafts along with general aviation flights.
 
+
+
+References:
+1. https://stackoverflow.com/questions/44960942/scraping-multiple-tables-along-with-their-headers-on-a-wikipedia-page-using-pyth
+2. https://towardsdatascience.com/web-scraping-the-list-of-greatest-video-games-from-wikipedia-pt-1-230c64d93e8c
+3. 
