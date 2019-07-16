@@ -5,8 +5,8 @@ In this project, I've attempted to learn and implement the basics of web scrapin
 
 The list of 549 records containing 8 variables (columns) are available in a table which I've scraped using the BeautifulSoup library in Python.
 
-Inspecting the HTML of the Wikipedia page, it can be observed that the text in the first 5 columns, related to Deaths are available within the <th> tags within the table, while the text in the rest of the columns is available within the <td> tags.
+Inspecting the HTML of the Wikipedia page, it can be observed that the text in the first 5 columns, related to Deaths are available within the 'th' tags of the table, while the text in the rest of the columns is available within the 'td' tags.
 
-I've extracted data from the first 5 columns with the <th> tags into one dataframe and the data from the rest of the columns with the <td> tags into another data frame and concatenated them into a single dataframe.
+The data from the first 5 columns with the 'th' tags has been extracted into one dataframe and the data from the rest of the columns with the 'td' tags into another dataframe. Both the dataframes have then been concatenated to form a single dataframe.
 
 I've referred to several websites and blogs to understand the basics of web scraping and using the BeautifulSoup library along with the BS4 documentation.
