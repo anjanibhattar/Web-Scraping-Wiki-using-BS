@@ -3,7 +3,7 @@ In this project, I've attempted to learn and implement the basics of web scrapin
 
 **URL: https://en.wikipedia.org/wiki/List_of_aircraft_accidents_and_incidents_resulting_in_at_least_50_fatalities
 
-The list of 549 records containing 8 variables (columns) are available in a table which I've scraped using the BeautifulSoup library in Python.
+The list of 549 records containing 13 variables (columns) are available in a table which I've scraped using the BeautifulSoup library in Python.
 
 Inspecting the HTML of the Wikipedia page, it can be observed that the text in the first 5 columns, related to Deaths are available within the 'th' tags of the table, while the text in the rest of the columns is available within the 'td' tags.
 
